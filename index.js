@@ -1,5 +1,5 @@
-const age=12;
-const number=33
+const age=123;
+const number=333
 const name="sam"
 function newFun()
 {
