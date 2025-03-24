@@ -6,3 +6,8 @@ function newFun()
     console.log(`hello world ${name}`);
 }
 newFun()
+
+function newFeatureAdd()
+{
+    console.log("This is a new feat");
+}
